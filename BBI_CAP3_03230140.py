@@ -1,6 +1,6 @@
 ##############
 #Github link
-#https://github.com/KuengaWD08/03230140_BIA101_CAPII
+#https://github.com/KuengaWD08/03230140_BIA101_CAP3
 #Kuenga Wangchen Dorji
 #BBI B
 #03230140
